@@ -1,0 +1,9 @@
+{
+  "name": "Just a Chill Santa",
+  "symbol": "ChillSanta",
+  "description": "Just a chill santa make money for you",
+  "image": "https://raw.githubusercontent.com/youngjun1241/token-logo/main/JustAchillsanta.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme" }
+  ]
+}
